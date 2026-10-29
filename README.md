@@ -33,5 +33,5 @@ Sou técnico em automação industrial e graduando em Engenharia de Controle e A
 
 ## 📬 Vamos nos conectar?
 
-[![LinkedIn](www.linkedin.com/in/victor-ranucci-teotonio-6b86243ab)
-[![Email](victorranucciteotonio@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/victor-ranucci-teotonio-6b86243ab)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](victorranucciteotonio@gmail.com)
