@@ -1,16 +1,37 @@
-## Hi there 👋
+# Sou o VICTOR RANUCCI TEOTONIO!
 
-<!--
-**victorranucciteotonio-ux/victorranucciteotonio-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Graduando em Engenharia de Controle e Automação | Técnico em Automação Industrial
 
-Here are some ideas to get you started:
+Sou técnico em automação industrial e graduando em Engenharia de Controle e Automação. Minha formação une a **prática de chão de fábrica** (sistemas eletropneumáticos, CLPs e comandos elétricos) com o **desenvolvimento de software e engenharia pesada** (programação em C/C++, arquitetura de computadores e projeto CAD).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Conhecimentos e Habilidades Técnicas
+
+### 💻 Programação & Baixo Nível
+* **Linguagens de Alto Nível:** C, C++
+* **Arquitetura & Linguagem de Máquina:** Assembly (Simuladores: CESAR, DAEDALUS, AHmes, RAMSES)
+* **Sistemas:** Eletrônica Digital e Analógica
+
+### ⚡ Automação & Eletrônica
+* **Controladores:** Programação e Integração de CLP (PLC)
+* **Sistemas Fluídicos:** Pneumática Industrial e Hidráulica
+* **Elétrica & Máquinas:** Comandos Elétricos, Máquinas Elétricas e Componentes Eletrônicos
+* **Hardware:** Análise e Montagem de Circuitos Eletrônicos
+
+### 📐 CAD & Modelagem 3D
+* **Desenho Técnico & CAD:** Onshape
+* **Projetos:** Leitura e Interpretação de Desenhos Técnicos Industriais e Esquemas Elétricos
+
+---
+
+## 🚀 Em busca de...
+* Projetos de integração entre software e hardware (Sistemas Embarcados, IoT Industrial e Robótica).
+* Oportunidades de estágio/trabalho na área de Engenharia de Controle, Automação e Desenvolvimento de Firmware.
+
+---
+
+## 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
